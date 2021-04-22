@@ -1,0 +1,7 @@
+(base) conda install selenium
+
+셀레니움 설치 후
+
+https://chromedriver.storage.googleapis.com/index.html?path=90.0.4430.24/  설치
+
+C:\python_workspace\scrapping 에 chromdriver.exe 파일 붙여넣기
